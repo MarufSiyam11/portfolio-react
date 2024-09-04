@@ -6,7 +6,7 @@ const Home = () => {
       style={{
         backgroundImage: `url(${bgImg})`,
       }}
-      className="container mx-auto  bg-cover bg "
+      className="container mx-auto  bg-cover bg mb-10"
     >
       <div className=" flex items-center justify-center">
         <div className="pl-16">
